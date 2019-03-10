@@ -5,8 +5,8 @@ Information visualization
 ### Start the application
 1. Start the Server
 
-python -m SimpleHTTPServer
+  python -m SimpleHTTPServer
 
-Then visit http://localhost:8000 on your browser
+  Then visit http://localhost:8000 on your browser
 
 2. Navigate to "active-year-range/" folder on the browser
