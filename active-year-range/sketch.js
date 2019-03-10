@@ -55,8 +55,8 @@ var selectedGenderFilters =[];
 
 
 function preload(){
-	table = loadTable("data/IEEE VIS papers 1990-2016 - Main dataset.csv", "csv", "header");
-	tableGender = loadTable("data/authorPaperGenderPositon.csv", "csv", "header");
+	table = loadTable("./data/IEEE VIS papers 1990-2016 - Main dataset.csv", "csv", "header");
+	tableGender = loadTable("./data/authorPaperGenderPositon.csv", "csv", "header");
 }
 
 function setup() {
